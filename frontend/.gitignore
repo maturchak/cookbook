@@ -1,0 +1,19 @@
+node_modules
+dist
+dist-ssr
+coverage
+*.local
+
+# Окружение: секреты и локальные настройки не коммитим
+.env
+.env.*
+!.env.example
+
+# Артефакты инкрементальной компиляции TS
+*.tsbuildinfo
+
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+*.log
+npm-debug.log*

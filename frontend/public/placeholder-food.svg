@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fde8d0"/>
+  <circle cx="200" cy="150" r="70" fill="#f7c891"/>
+  <circle cx="200" cy="150" r="52" fill="#fdeedd"/>
+  <path d="M150 150a50 50 0 0 1 100 0" fill="#e67e22" opacity="0.25"/>
+  <text x="200" y="245" font-family="Arial, sans-serif" font-size="18" fill="#a05a1c" text-anchor="middle">Фото скоро появится</text>
+</svg>
